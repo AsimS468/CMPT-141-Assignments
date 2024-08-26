@@ -1,0 +1,17 @@
+a)  Line 1: def day_care_cost
+
+b)  Line 17: first_stay
+    Line 21: second_stay
+
+c)  Line 17: 3, 7, 49.50
+    Line 21: 10, 3, 19.75
+
+d)  Line 1: number_of_dogs, number_of_days, price_per_dog 
+
+e)  i.   daily_dog_cost is a variable local to the function and is the product of the parameters number_of_dogs and price_per_dog
+    ii.  number_of_days is a local variable to the function and is a parameter of the function. Used to calculate total_cost.
+    iii. first_stay is a global variable of the function (a variable existing in the main part of the program) and is a variable 
+         name for the invocation of the function with the arguments (3, 7, 49.50).
+
+f)  first_stay = 1039.50
+    second_stay = 592.50

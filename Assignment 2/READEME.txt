@@ -1,0 +1,9 @@
+Question 1:
+    Takeaway: Using functions in python is similar to using functions in C and using methods in Java.
+
+Question 2:
+    Takeaway: Functions in python start with def instead of public like in other programming languages. Functions also
+    don't seem to have return types.
+
+Question 3:
+    Takeaway: Calling functions within functions is similar to other languages like C and Java.
